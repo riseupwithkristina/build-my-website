@@ -1,4 +1,3 @@
-// Declare Server constants and modules
 const hostname = '0.0.0.0';
 const port = process.env.PORT || 3000;
 const Path = require('path');
